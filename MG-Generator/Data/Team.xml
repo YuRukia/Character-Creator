@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Team>
+  <Solo>
+    <Name>Solo</Name>
+    <Weighting>50</Weighting>	
+  </Solo>
+  <Duo>
+    <Name>Duo</Name>
+    <Weighting>75</Weighting>
+  </Duo>
+  <Trio>
+    <Name>Trio</Name>
+    <Weighting>90</Weighting>
+  </Trio>
+  <Quartet>
+    <Name>Quartet</Name>
+    <Weighting>97</Weighting>
+  </Quartet>
+  <Quintet>
+    <Name>Quintet</Name>
+    <Weighting>98</Weighting>
+  </Quintet>
+</Team>

@@ -1,0 +1,142 @@
+<Randomised_Stats>
+	<Story_Maker>
+		<!--Upper and Lower bounds of Health-->
+		<HealthLower>50</HealthLower>
+		<HealthUpper>200</HealthUpper>
+		<!--Upper and Lower bounds of Base Damage-->
+		<BaseDamageLower>10</BaseDamageLower>
+		<BaseDamageUpper>50</BaseDamageUpper>
+		<!--Upper and Lower bounds of Base Resilience-->
+		<BaseResilienceLower>20</BaseResilienceLower>
+		<BaseResilienceUpper>50</BaseResilienceUpper>
+		<!--Upper and Lower bounds of Magic Modifier-->
+		<MagicModifierLower>0</MagicModifierLower>
+		<MagicModifierUpper>30</MagicModifierUpper>
+		<!--Upper and Lower bounds of Spell Base Damage-->
+		<SpellBaseDamageLower>0</SpellBaseDamageLower>
+		<SpellBaseDamageUpper>75</SpellBaseDamageUpper>
+		<!--Upper and Lower bounds of Spell Magic Modifier-->
+		<SpellMagicModifierLower>0</SpellMagicModifierLower>
+		<SpellMagicModifierUpper>75</SpellMagicModifierUpper>
+	</Story_Maker>
+	<Myth_Maker>
+		<!--Upper and Lower bounds of Health-->
+		<HealthLower>50</HealthLower>
+		<HealthUpper>200</HealthUpper>
+		<!--Upper and Lower bounds of Base Damage-->
+		<BaseDamageLower>15</BaseDamageLower>
+		<BaseDamageUpper>55</BaseDamageUpper>
+		<!--Upper and Lower bounds of Base Resilience-->
+		<BaseResilienceLower>20</BaseResilienceLower>
+		<BaseResilienceUpper>50</BaseResilienceUpper>
+		<!--Upper and Lower bounds of Magic Modifier-->
+		<MagicModifierLower>0</MagicModifierLower>
+		<MagicModifierUpper>30</MagicModifierUpper>
+		<!--Upper and Lower bounds of Spell Base Damage-->
+		<SpellBaseDamageLower>0</SpellBaseDamageLower>
+		<SpellBaseDamageUpper>80</SpellBaseDamageUpper>
+		<!--Upper and Lower bounds of Spell Magic Modifier-->
+		<SpellMagicModifierLower>0</SpellMagicModifierLower>
+		<SpellMagicModifierUpper>80</SpellMagicModifierUpper>
+	</Myth_Maker>
+	<Legend_Maker>
+		<!--Upper and Lower bounds of Health-->
+		<HealthLower>75</HealthLower>
+		<HealthUpper>300</HealthUpper>
+		<!--Upper and Lower bounds of Base Damage-->
+		<BaseDamageLower>25</BaseDamageLower>
+		<BaseDamageUpper>70</BaseDamageUpper>
+		<!--Upper and Lower bounds of Base Resilience-->
+		<BaseResilienceLower>25</BaseResilienceLower>
+		<BaseResilienceUpper>60</BaseResilienceUpper>
+		<!--Upper and Lower bounds of Magic Modifier-->
+		<MagicModifierLower>0</MagicModifierLower>
+		<MagicModifierUpper>40</MagicModifierUpper>
+		<!--Upper and Lower bounds of Spell Base Damage-->
+		<SpellBaseDamageLower>0</SpellBaseDamageLower>
+		<SpellBaseDamageUpper>100</SpellBaseDamageUpper>
+		<!--Upper and Lower bounds of Spell Magic Modifier-->
+		<SpellMagicModifierLower>0</SpellMagicModifierLower>
+		<SpellMagicModifierUpper>100</SpellMagicModifierUpper>
+	</Legend_Maker>
+	<Story>
+		<!--Upper and Lower bounds of Health-->
+		<HealthLower>100</HealthLower>
+		<HealthUpper>400</HealthUpper>
+		<!--Upper and Lower bounds of Base Damage-->
+		<BaseDamageLower>50</BaseDamageLower>
+		<BaseDamageUpper>75</BaseDamageUpper>
+		<!--Upper and Lower bounds of Base Resilience-->
+		<BaseResilienceLower>30</BaseResilienceLower>
+		<BaseResilienceUpper>70</BaseResilienceUpper>
+		<!--Upper and Lower bounds of Magic Modifier-->
+		<MagicModifierLower>0</MagicModifierLower>
+		<MagicModifierUpper>65</MagicModifierUpper>
+		<!--Upper and Lower bounds of Spell Base Damage-->
+		<SpellBaseDamageLower>0</SpellBaseDamageLower>
+		<SpellBaseDamageUpper>150</SpellBaseDamageUpper>
+		<!--Upper and Lower bounds of Spell Magic Modifier-->
+		<SpellMagicModifierLower>0</SpellMagicModifierLower>
+		<SpellMagicModifierUpper>150</SpellMagicModifierUpper>
+	</Story>
+	<Myth>
+		<!--Upper and Lower bounds of Health-->
+		<HealthLower>100</HealthLower>
+		<HealthUpper>500</HealthUpper>
+		<!--Upper and Lower bounds of Base Damage-->
+		<BaseDamageLower>50</BaseDamageLower>
+		<BaseDamageUpper>100</BaseDamageUpper>
+		<!--Upper and Lower bounds of Base Resilience-->
+		<BaseResilienceLower>50</BaseResilienceLower>
+		<BaseResilienceUpper>75</BaseResilienceUpper>
+		<!--Upper and Lower bounds of Magic Modifier-->
+		<MagicModifierLower>0</MagicModifierLower>
+		<MagicModifierUpper>75</MagicModifierUpper>
+		<!--Upper and Lower bounds of Spell Base Damage-->
+		<SpellBaseDamageLower>0</SpellBaseDamageLower>
+		<SpellBaseDamageUpper>200</SpellBaseDamageUpper>
+		<!--Upper and Lower bounds of Spell Magic Modifier-->
+		<SpellMagicModifierLower>0</SpellMagicModifierLower>
+		<SpellMagicModifierUpper>200</SpellMagicModifierUpper>
+	</Myth>
+	<Legend>
+		<!--Upper and Lower bounds of Health-->
+		<HealthLower>200</HealthLower>
+		<HealthUpper>550</HealthUpper>
+		<!--Upper and Lower bounds of Base Damage-->
+		<BaseDamageLower>100</BaseDamageLower>
+		<BaseDamageUpper>200</BaseDamageUpper>
+		<!--Upper and Lower bounds of Base Resilience-->
+		<BaseResilienceLower>100</BaseResilienceLower>
+		<BaseResilienceUpper>175</BaseResilienceUpper>
+		<!--Upper and Lower bounds of Magic Modifier-->
+		<MagicModifierLower>0</MagicModifierLower>
+		<MagicModifierUpper>200</MagicModifierUpper>
+		<!--Upper and Lower bounds of Spell Base Damage-->
+		<SpellBaseDamageLower>0</SpellBaseDamageLower>
+		<SpellBaseDamageUpper>200</SpellBaseDamageUpper>
+		<!--Upper and Lower bounds of Spell Magic Modifier-->
+		<SpellMagicModifierLower>0</SpellMagicModifierLower>
+		<SpellMagicModifierUpper>200</SpellMagicModifierUpper>
+	</Legend>
+	<Epic>
+		<!--Upper and Lower bounds of Health-->
+		<HealthLower>1500</HealthLower>
+		<HealthUpper>2000</HealthUpper>
+		<!--Upper and Lower bounds of Base Damage-->
+		<BaseDamageLower>500</BaseDamageLower>
+		<BaseDamageUpper>1000</BaseDamageUpper>
+		<!--Upper and Lower bounds of Base Resilience-->
+		<BaseResilienceLower>500</BaseResilienceLower>
+		<BaseResilienceUpper>1000</BaseResilienceUpper>
+		<!--Upper and Lower bounds of Magic Modifier-->
+		<MagicModifierLower>250</MagicModifierLower>
+		<MagicModifierUpper>500</MagicModifierUpper>
+		<!--Upper and Lower bounds of Spell Base Damage-->
+		<SpellBaseDamageLower>0</SpellBaseDamageLower>
+		<SpellBaseDamageUpper>1000</SpellBaseDamageUpper>
+		<!--Upper and Lower bounds of Spell Magic Modifier-->
+		<SpellMagicModifierLower>0</SpellMagicModifierLower>
+		<SpellMagicModifierUpper>1000</SpellMagicModifierUpper>
+	</Epic>
+</Randomised_Stats>

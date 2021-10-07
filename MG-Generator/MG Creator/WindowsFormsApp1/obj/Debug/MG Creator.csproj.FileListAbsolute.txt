@@ -1,0 +1,30 @@
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG Creator.csproj.GenerateResource.cache
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG Creator.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG_Creator.Properties.Resources.resources
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG Creator.csprojAssemblyReference.cache
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG Creator.csprojAssemblyReference.cache
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG_Creator.Properties.Resources.resources
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG Creator.csproj.GenerateResource.cache
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG Creator.csproj.CoreCompileInputs.cache
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG_Creator.Export_Form.resources
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.5.exe.config
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.5.exe.manifest
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.5.application
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.5.exe
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.5.pdb
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Magical Girl Creator 1.5.exe.manifest
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Magical Girl Creator 1.5.application
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Magical Girl Creator 1.5.exe
+E:\Backup\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Magical Girl Creator 1.5.pdb
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.6.exe.config
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.6.exe.manifest
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.6.application
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.6.exe
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Magical Girl Creator 1.6.pdb
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MG_Creator.Export_Form.resources
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Magical Girl Creator 1.6.exe.manifest
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Magical Girl Creator 1.6.application
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Magical Girl Creator 1.6.exe
+C:\Users\Connor\Documents\GitHub\MG-Generator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Magical Girl Creator 1.6.pdb

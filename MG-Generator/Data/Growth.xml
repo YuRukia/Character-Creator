@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Growth>
+  <Story_Maker>
+    <Name>Story Maker</Name>
+    <Weighting>20</Weighting>	
+  </Story_Maker>
+  <Myth_Maker>
+    <Name>Myth Maker</Name>
+    <Weighting>15</Weighting>
+  </Myth_Maker>
+  <Legend_Maker>
+    <Name>Legend Maker</Name>
+    <Weighting>15</Weighting>
+  </Legend_Maker>
+  <Story>
+    <Name>Story</Name>
+    <Weighting>25</Weighting>
+  </Story>
+  <Myth>
+    <Name>Myth</Name>
+    <Weighting>15</Weighting>
+  </Myth>
+  <Legend>
+    <Name>Legend</Name>
+    <Weighting>7</Weighting>
+  </Legend>
+  <Epic>
+    <Name>Epic</Name>
+    <Weighting>3</Weighting>
+  </Epic>
+</Growth>
